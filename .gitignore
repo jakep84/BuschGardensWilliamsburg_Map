@@ -1,0 +1,82 @@
+# Build & temp directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Mm]emoryCaptures/
+[Uu]serSettings/
+
+# Unity cache
+*.stackdump
+
+# Crash & log files
+sysinfo.txt
+*.log
+
+# IDE/project files
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# VSCode & JetBrains
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+*.swp
+*.lnk
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Unity generated build output
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+*.pbxproj
+*.app
+*.ipa
+*.exe
+
+# Unity Cloud Build
+.cloud/
+
+# Rider / JetBrains
+*.dotCover
+.idea/
+*.unityproj
+
+# TextMesh Pro user settings
+TextMesh Pro/Resources/Font Asset Creator Settings.asset
+
+# Collaboration metadata (if disabled)
+.collab/
+
+# Ignore all generated lighting data
+LightingData.asset
+
+# Addressables
+Assets/AddressableAssetsData/*/*.bin*
+Assets/StreamingAssets/aa/
+
+# PlasticSCM (Unity's built-in source control)
+.plastic/
+.ignore
+
+# Yarn Spinner (if used)
+*.yarnc
+
+# Optional: Ignore auto-generated meta files (only if you're sure)
+# *.meta
+
+# Ignore Build folders recursively
+**/[Bb]uild*/
